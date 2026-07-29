@@ -63,7 +63,7 @@ I'm Ndubueze
 </table>
 
 <p align="center">
-  <i>⚡ "You are codes away from launching your applications"</i>
+  <i>⚡ "You are codes away from launching your application"</i>
 </p>
 
 ## Links & portfolio
