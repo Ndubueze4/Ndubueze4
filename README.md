@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm Ndubueze 👋
 
+- 🔭 I’m currently working on **[Phantom/Job seeking platform]**
+- 🛠️ Tech Stack: Python, Node.js, TypeScript, PostgreSQL, Docker
+- ⚡ Fun fact: if you can visualize it i can design,I breach your dreams to real codes reality.
+
+## Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 <!--
 **Ndubueze4/Ndubueze4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
