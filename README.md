@@ -41,6 +41,31 @@ I'm Ndubueze
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Web Platforms & Infrastructure</h3>
+      <ul>
+        <li><b>Phantom & Quickly:</b> Production web applications featuring Next.js, Node.js, Vercel, and Postgres.</li>
+        <li><b>Cloud & Security:</b> Cloudflare WAF protection, DNS/MX routing, and network spoofing safeguards.</li>
+        <li><b>Environment:</b> Docker containerization, REST API design, and system admin workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Quantitative Automation & Content</h3>
+      <ul>
+        <li><b>Algorithmic Trading:</b> Python MT5 execution bots engineered for liquidity sweeps & market structure shifts.</li>
+        <li><b>Digital Content:</b> Finance & automated trading content creation on YouTube & social platforms.</li>
+        <li><b>Tech Stack:</b> Python, TypeScript, SQL, Node.js, Docker, Cloudflare.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>⚡ "If you can visualize it, I can engineer it — bridging the gap between bold ideas and software reality."</i>
+</p>
+
 ## Links & portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ndubueze-portfolio-xhgs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dickson-ndubueze-513054374)
