@@ -1,9 +1,30 @@
 ## Hi there 👋
 I'm Ndubueze 
 
-- 🔭 I’m currently working on **[Phantom/Job seeking platform]**
-- 🛠️ Tech Stack: Python, Node.js, TypeScript, PostgreSQL, Docker & more
-- ⚡ Fun fact: if you can visualize it I can design it,I breach the gap between your dreams and software reality.
+## 🚀 Current Focus & Skills
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Active Projects</h3>
+      <ul>
+        <li><b>Phantom</b> — End-to-end web platform built with TypeScript, Node.js, and serverless Postgres databases.</li>
+        <li><b>Job Matching Platform</b> — Production web platform engineered with custom DNS routing, Cloudflare WAF protection, and user verification.</li>
+        <li><b>Quantitative Automation</b> — Python scripts and automated execution pipelines for algorithmic trading strategies.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Primary Stack</h3>
+      <p>
+        <code>Python</code> • <code>Node.js</code> • <code>TypeScript</code><br>
+        <code>PostgreSQL</code> • <code>Docker</code> • <code>Cloudflare</code><br>
+        <code>Vercel</code> • <code>Next.js</code> • <code>Git</code>
+      </p>
+      <h3>⚡ Philosophy</h3>
+      <p><i>"If you can visualize it, I can design it — bridging the gap between bold ideas and software reality."</i></p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
