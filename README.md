@@ -2,8 +2,8 @@
 I'm Ndubueze 
 
 - 🔭 I’m currently working on **[Phantom/Job seeking platform]**
-- 🛠️ Tech Stack: Python, Node.js, TypeScript, PostgreSQL, Docker
-- ⚡ Fun fact: if you can visualize it i can design,I breach your dreams to real codes reality.
+- 🛠️ Tech Stack: Python, Node.js, TypeScript, PostgreSQL, Docker & more
+- ⚡ Fun fact: if you can visualize it I can design it,I breach the gap between your dreams and software reality.
 
 ## Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
