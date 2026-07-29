@@ -21,7 +21,7 @@ I'm Ndubueze
         <code>Vercel</code> • <code>Next.js</code> • <code>Git</code>
       </p>
       <h3>⚡ Philosophy</h3>
-      <p><i>"If you can visualize it, I can design it — bridging the gap between bold ideas and software reality."</i></p>
+      <p><i>"You are a code away from getting your applications."</i></p>
     </td>
   </tr>
 </table>
